@@ -1,0 +1,19 @@
+{
+  "name": "bb",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/terminal25/BB.git)"
+  },
+  "author": "terminal",
+  "license": "ISC",
+  "devDependencies": {
+    "parsel": "^0.3.0",
+    "sass": "^1.89.2"
+  }
+}
